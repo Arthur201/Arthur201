@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo ao meu Github...
 
 Abaixo estão alguns dos projetos com os quais tive a honra de contribuir:
-- https://github.com/ThomRamks/POO_2_Banco/tree/main
+![](https://github.com/ThomRamks/POO_2_Banco/blob/Features/ReadMe/adabank2.png?raw=true-10x10.png) - https://github.com/ThomRamks/POO_2_Banco/tree/main
 
 <div>
 <a href="https://github.com/Arthur201">
