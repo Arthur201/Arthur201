@@ -1,5 +1,8 @@
 ### Seja Bem-Vindo ao meu Github...
 
+Abaixo estão alguns dos projetos com os quais tive a honra de contribuir:
+- https://github.com/ThomRamks/POO_2_Banco/tree/main
+
 <div>
 <a href="https://github.com/Arthur201">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur201&layout=compact&langs_count=7&theme=dracula"/>
