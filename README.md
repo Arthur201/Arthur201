@@ -1,8 +1,12 @@
-### Seja Bem-Vindo ao meu Github...
+# Seja Bem-Vindo ao meu Github...
 
-Abaixo estão alguns dos projetos com os quais tive a honra de contribuir:
+### 💻 Abaixo estão alguns dos projetos com os quais tive a honra de contribuir:
 
 * https://github.com/ThomRamks/POO_2_Banco/tree/main
+
+-------------------------------------
+
+### 📊 Stats
 
 <div>
 <a href="https://github.com/Arthur201">
